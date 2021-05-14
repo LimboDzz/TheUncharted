@@ -1,2 +1,2 @@
 ﻿# TheUncharted
- 和朋友一起完成的游戏编程课作业
+My first Unity 2D game with Cai. 
